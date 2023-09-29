@@ -22,8 +22,7 @@ I'm a **Student🎓 [@ The VIT University Amaravati🅾️](https://vitap.ac.in/
 
 - 🔭 I’m currently working on Fullstack Android App Project
 - 🌱 I’m currently learning Rest API 
-<!--<img width="490" height="270" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" align=right>-->
-<img src="https://drive.google.com/file/d/1Yo_o2mrP3IgvqiTG9UjG_DnKeUDy4GaP/view?usp=drive_link" align=right>
+<img width="490" height="270" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Android Development & REST APIs
