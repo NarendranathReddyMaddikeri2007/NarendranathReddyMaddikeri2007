@@ -15,21 +15,21 @@
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Student🎓 [@ The VIT University Amaravati🅾️](https://vitap.ac.in/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
-
+<img width="450" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align=left>
 
 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on Fullstack Android App Project
 - 🌱 I’m currently learning Rest API 
-<img width="450" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align=right>
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Android Development & REST APIs
   - 📱 Deployed 2 apps into Playstore
   - 🛠 Integrating App with AWS, GCP & Firebase
 - 📝 I've streak of 180+ on leetcode
-- 👯 I’m looking to collaborate on making android projects with backend Pi or connecting to serverless database
+- 👯 I’m looking to collaborate on making android projects with backend or connecting to serverless database
 - 🤔 I’m looking for help with Rest Api
 - 💬 Ask me about Android, SQL, Firebase, MongoDB
 - 📙 Check out my [Resume](https://www.linkedin.com/in/maddikeri-narendranath-reddy-75494b225)
