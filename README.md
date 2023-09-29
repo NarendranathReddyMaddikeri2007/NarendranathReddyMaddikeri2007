@@ -56,8 +56,6 @@ I'm a **Student🎓 [@ The VIT University Amaravati🅾️](https://vitap.ac.in/
 		<td><img height="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></td>
 		<td><img height="30" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"></td>
 		<td><img height="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"></td>
-	</tr>
-	<tr>
 		<td><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></td>
 		<td><img height="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></td>
 		<td><img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"></td>
