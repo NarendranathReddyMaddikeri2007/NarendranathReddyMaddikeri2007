@@ -16,7 +16,7 @@
 I'm a **Student🎓 [@ The VIT University Amaravati🅾️](https://vitap.ac.in/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 <img width="450" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align=left>
-
+<br>
 
 ## ⚡️ A Few Quick Facts
 
