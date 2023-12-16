@@ -31,7 +31,7 @@ I'm a **Student🎓 [@ Vellore Institute of Technology, Amaravati🅾️](https:
 - 👯 I’m looking to collaborate on making android projects with backend or connecting to serverless database
 - 🤔 I’m looking for help with Rest Api
 - 💬 Ask me about Android, SQL, Firebase, MongoDB
-- 📙 Check out my [Resume]([https://www.linkedin.com/in/maddikeri-narendranath-reddy-75494b225](https://drive.google.com/file/d/1Z5rHnc0Ur-Z5qyaY5JUo395UrnudjK0i/view?usp=sharing))
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1Z5rHnc0Ur-Z5qyaY5JUo395UrnudjK0i/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ Anirudh  Ravichandran's Musical and watch a lot Spy Movies🎬
 
   
