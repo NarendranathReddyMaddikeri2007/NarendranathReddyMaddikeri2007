@@ -3,14 +3,7 @@
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/NarendranathReddyMaddikeri2007)](https://github.com/NarendranathReddyMaddikeri2007) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maddikeri-narendranath-reddy-75494b225)](https://www.linkedin.com/in/maddikeri-narendranath-reddy-75494b225)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/narendranath2007/)](https://leetcode.com/narendranath2007/)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/dev?id=6496052605811891931)](https://play.google.com/store/apps/dev?id=6496052605811891931)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:narendranath.maddikeri2007@gmail.com)](mailto:narendranath.maddikeri2007@gmail.com)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/narendranath_ma1)](https://www.hackerrank.com/narendranath_ma1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz_narru2007_/)](https://www.instagram.com/itz_narru2007_/)
-
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Software Engineer and Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
